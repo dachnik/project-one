@@ -1,1 +1,1 @@
-Hello worid
+print("Hello world")
